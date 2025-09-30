@@ -159,6 +159,13 @@
         "Ultor ring"
     ],
     [
+        "Torva platebody",
+        "Torva platelegs",
+        "Torva full helm",
+        "Zaryte crossbow",
+        "Zaryte vambraces"
+    ],
+    [
         "Magus ring"
     ],
     [
@@ -192,22 +199,15 @@
         "Elidins' ward (f)"
     ],
     [
+        "Avernic defender",
+        "Scythe of vitur"
+    ],
+    [
         "Twisted bow",
         "Dragon claws",
         "Ancestral robe top",
         "Ancestral robe bottom",
         "Ancestral hat",
         "Elder maul"
-    ],
-    [
-        "Avernic defender",
-        "Scythe of vitur"
-    ],
-    [
-        "Torva platebody",
-        "Torva platelegs",
-        "Torva full helm",
-        "Zaryte crossbow",
-        "Zaryte vambraces"
     ]
 ]
